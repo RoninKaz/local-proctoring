@@ -1,0 +1,5 @@
+opencv-python
+keyboard
+mediapipe
+ultralytics
+psutil
